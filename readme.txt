@@ -1,2 +1,2 @@
 sup
-this is a change
+hey this is a git tutorial text
